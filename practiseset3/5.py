@@ -1,0 +1,1 @@
+print("dear binit\n python course is nice\nthankyou")

@@ -1,0 +1,12 @@
+list=["ram","shyam","binit"]
+list.append("rahul")
+list.sort()
+list.reverse()
+list.insert(2,"bishal")
+print(list)
+a=[3,4,5,6,7,8]
+a.insert(2,33)
+poped=a.pop(2)
+removed=a.remove(7)
+print(poped)
+print(a)
