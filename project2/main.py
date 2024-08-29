@@ -1,9 +1,9 @@
 #perfect guess
 import random
-x=random.randint(1,1000)
+x=random.randint(1,100)
 guesses=0
 z=-1
-print(x)
+
 while x !=z:
     z=int(input("enter the number you gussed:"))
     if z<x:
